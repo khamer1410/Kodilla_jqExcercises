@@ -1,7 +1,7 @@
 $(function() {
 	var pokazTablice = $('body').find('div');
 	console.log(pokazTablice);
-	console.log(pokazTablice[2]);
+	console.log(pokazTablice[3]);
 });
 
 
